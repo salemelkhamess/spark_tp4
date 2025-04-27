@@ -1,0 +1,13 @@
+Id,titre,description,service,date
+1,Panne serveur,"Le serveur principal a planté",IT,2022-05-15
+2,Fuite eau,"Fuite dans les toilettes du 2ème étage",Maintenance,2023-02-20
+3,Problème réseau,"Pas de connexion internet dans le service comptabilité",IT,2022-11-08
+4,Climatisation en panne,"La clim ne fonctionne pas dans la salle de réunion",Maintenance,2023-07-30
+5,Logiciel crash,"Le logiciel de gestion client plante fréquemment",IT,2024-01-12
+6,Porte bloquée,"Porte d'entrée principale difficile à ouvrir",Maintenance,2022-08-22
+7,Problème email,"Impossible d'envoyer des emails externes",IT,2023-04-05
+8,Éclairage défectueux,"Lumières clignotantes dans le couloir B",Maintenance,2024-03-18
+9,Erreur base de données,"Problème de synchronisation des données",IT,2022-12-10
+10,Ascenseur en panne,"Ascenseur nord ne répond plus",Maintenance,2023-09-15
+11,Problème imprimante,"Imprimante réseau ne fonctionne pas",IT,2024-02-28
+12,Chauffage défectueux,"Radiateurs froids dans l'aile est",Maintenance,2022-10-11
