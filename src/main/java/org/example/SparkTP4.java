@@ -12,8 +12,7 @@ public class SparkTP4 {
     public static void main(String[] args) {
         // 1. Créer la session Spark
         SparkSession spark = SparkSession.builder()
-                .appName("TP3 Spark SQL Java")
-                .master("local[*]")
+                .appName("TP4 Spark SQL Java")
                 .getOrCreate();
 
         // 2. Charger les données
